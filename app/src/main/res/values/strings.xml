@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p2</string>
+    <string name="greeting"></string>
+    <string name="name"></string>
+</resources>
